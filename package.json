@@ -1,0 +1,19 @@
+{
+  "name": "criando-um-template-para-projetos-com-node-js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/matheuspython/criando-um-template-para-projetos-com-node-js.git",
+  "author": "matheus souza <ruivorobado@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
